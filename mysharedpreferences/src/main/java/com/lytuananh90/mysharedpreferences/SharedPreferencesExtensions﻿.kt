@@ -1,4 +1,4 @@
-package com.lytuananh90.sharedpreferences
+package com.lytuananh90.mysharedpreferences
 
 import android.app.Application
 import android.content.Context

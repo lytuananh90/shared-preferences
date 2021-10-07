@@ -1,4 +1,4 @@
-package com.lytuananh90.sharedpreferences
+package com.lytuananh90.mysharedpreferences
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

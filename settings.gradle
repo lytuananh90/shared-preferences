@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SharedPreferences"
 include ':app'
-include ':sharedpreferences'
+include ':mysharedpreferences'
