@@ -1,4 +1,4 @@
-package com.lytuananh90.mysharedpreferences
+package com.lytuananh90.sharedpreferences
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.lytuananh90.mysharedpreferences
+package com.lytuananh90.sharedpreferences
 
 import org.junit.Test
 
